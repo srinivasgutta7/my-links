@@ -1,0 +1,5 @@
+https://github.com/krishnaik06/Handle-Imbalanced-Dataset/blob/master/Handling%20Imbalanced%20Data-%20Under%20Sampling.ipynb
+
+https://github.com/analyticalmindsltd/smote_variants
+
+https://towardsdatascience.com/part-1-balancing-and-augmenting-structured-data-4ade0df38662

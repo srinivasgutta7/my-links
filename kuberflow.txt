@@ -1,0 +1,7 @@
+https://github.com/kubeflow/examples
+
+https://www.youtube.com/watch?v=LEkySCHtCuQ
+
+https://static.sched.com/hosted_files/kccncna19/18/From%20Notebook%20to%20Kubeflow%20Pipelines.pdf
+
+https://towardsdatascience.com/gpu-as-a-service-on-kubeflow-fast-scalable-and-efficient-ml-c5783b95d192

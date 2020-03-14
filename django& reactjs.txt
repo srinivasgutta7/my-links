@@ -1,0 +1,17 @@
+https://medium.com/applied-data-science/the-full-stack-data-scientist-part-1-productionise-your-models-with-django-apis-7799b893ce7c
+https://www.valentinog.com/blog/drf/
+https://www.reddit.com/r/reactjs/comments/9i4x2m/best_react_front_end_django_back_end_tutorials/
+https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK
+https://github.com/owais/django-webpack-loader
+https://dev.to/nickparsons/tutorial-chat-with-python-django-and-react-1cpk?utm_source=pycoder&utm_medium=email&utm_campaign=sponsored_link&utm_content=dev.to
+https://github.com/PloyPex/Django-React-Boilerplate
+https://apirobot.me/posts/django-elasticsearch-searching-for-awesome-ted-talks
+https://medium.com/@nparsons08/python-chat-tutorial-with-django-and-react-6c6dc69b3de3
+
+https://github.com/sinjorjob/django-drf-dl (###rest deep lerning###)
+https://github.com/sinjorjob
+https://github.com/nature1995/AI-Image-classifiers-on-Django-with-RESTAPI
+
+https://www.reddit.com/r/django/comments/b59gl8/using_django_to_deploy_machine_learning_models/ejbyhgl/
+
+https://mc.ai/integrate-deep-learning-with-keras-in-django/

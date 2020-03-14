@@ -1,0 +1,6 @@
+https://towardsdatascience.com/data-science-for-startups-model-services-2facf2dde81d
+https://hackernoon.com/top-5-amazon-web-services-or-aws-courses-to-learn-online-free-and-best-of-lot-d94e192054b7
+https://blog.quiltdata.com/building-fully-custom-machine-learning-models-on-aws-sagemaker-a-practical-guide-598648da4a43
+https://towardsdatascience.com/how-to-train-custom-word-embeddings-using-gpu-on-aws-f62727a1e3f6
+
+https://github.com/Kenza-AI/sagify

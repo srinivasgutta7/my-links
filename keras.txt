@@ -1,0 +1,5 @@
+https://blog.sicara.com/keras-tutorial-content-based-image-retrieval-convolutional-denoising-autoencoder-dc91450cc511
+
+https://github.com/fchollet/keras-resources
+
+https://github.com/psklight/keras_one_cycle_clr

@@ -1,0 +1,3 @@
+https://www.kaggle.com/kimtaegwan/what-s-your-cv-method
+
+https://www.kaggle.com/ratthachat/quest-cv-analysis-on-different-splitting-methods

@@ -1,0 +1,14 @@
+https://medium.com/swlh/5-free-online-courses-to-learn-big-data-hadoop-and-spark-in-2019-a553e6ccfe30
+https://www.fromdev.com/2019/01/best-free-apache-spark-tutorials-pdf.html
+https://medium.com/@SeattleDataGuy/learn-data-engineering-my-favorite-free-resources-52a29ab999b
+https://github.com/steveloughran/winutils
+http://www.bigdatausecases.info/companies/linkedin?filter%5B%5D=%2Ftechnologies%2Fspark
+https://towardsdatascience.com/@pknerd ### kafka setup
+
+https://itnext.io/how-to-create-a-simple-etl-job-locally-with-pyspark-postgresql-and-docker-ea53cd43311d
+
+https://medium.com/analytics-vidhya/realtime-big-data-analytic-in-incident-response-practical-review-of-streaming-and-an-automated-2f4b7a045b65
+
+https://github.com/mtpatter/postgres-kafka-demo
+
+https://github.com/RaRe-Technologies/smart_open

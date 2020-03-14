@@ -1,0 +1,4 @@
+http://holoviews.org/
+https://github.com/ericmjl/cookiecutter
+https://github.com/microsoft/tensorwatch
+https://github.com/SeldonIO/seldon-core---deploy ml on kubernet cluster

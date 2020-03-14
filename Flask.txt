@@ -1,0 +1,8 @@
+http://flask.pocoo.org/
+https://towardsdatascience.com/how-to-deploy-your-website-to-a-custom-domain-8cb23063c1ff
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+https://github.com/pallets/flask
+http://flask.pocoo.org/docs/1.0/deploying/
+https://medium.com/better-programming/build-test-and-deploy-a-flask-application-part-4-5aa4f079fadb
+
+https://github.com/soumilshah1995?tab=repositories

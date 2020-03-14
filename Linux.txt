@@ -1,0 +1,3 @@
+https://medium.com/better-programming/6-terminal-commands-you-should-know-8e9767bdfec
+
+https://github.com/DingGuodong/LinuxBashShellScriptForOps/blob/master/How-To-Learn-Bash-and-Python-Programming-The-Smart-Way-zh_CN.md

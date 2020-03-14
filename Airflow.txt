@@ -1,0 +1,6 @@
+https://github.com/chandulal/airflow-testing
+
+https://github.com/GagandeepS/airlfow-automatic-dag-creation
+https://towardsdatascience.com/automatic-airflow-dag-creation-for-data-scientists-and-analysts-17d24a9884ba
+
+https://github.com/chandulal/awesome-apache-airflow

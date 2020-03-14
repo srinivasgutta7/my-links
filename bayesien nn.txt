@@ -1,0 +1,3 @@
+https://towardsdatascience.com/bayesian-neural-networks-with-tensorflow-probability-fbce27d6ef6
+
+https://towardsdatascience.com/bayesian-hierarchical-modeling-or-more-reasons-why-automl-cannot-replace-data-scientists-yet-d01e7d571d3d

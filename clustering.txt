@@ -1,0 +1,5 @@
+https://www.kaggle.com/vbmokin/eda-for-tabular-data-advanced-techniques
+
+https://towardsdatascience.com/a-semi-supervised-embedding-based-fuzzy-clustering-b2023c0fde7c
+
+https://medium.com/sfu-cspmp/exploration-of-fundamental-clustering-algorithms-k-means-and-dbscan-eac7332cf74b

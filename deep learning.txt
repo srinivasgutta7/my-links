@@ -1,0 +1,11 @@
+https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks
+https://towardsdatascience.com/deep-learning-3-more-on-cnns-handling-overfitting-2bd5d99abe5d
+https://becominghuman.ai/100-days-to-deep-learning-part-2-the-100-days-8177659f199e
+
+https://medium.com/activating-robotic-minds/tagged/information-theory
+
+https://github.com/lexfridman/mit-deep-learning
+
+https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607
+
+https://www.analyticsvidhya.com/blog/2017/05/25-must-know-terms-concepts-for-beginners-in-deep-learning/

@@ -1,0 +1,3 @@
+https://christophm.github.io/interpretable-ml-book/pdp.html
+
+https://deep-and-shallow.com/2019/11/13/interpretability-cracking-open-the-black-box-part-i/

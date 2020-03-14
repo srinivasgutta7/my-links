@@ -1,0 +1,73 @@
+https://medium.com/@Nithanaroy/encoding-fixed-length-high-cardinality-non-numeric-columns-for-a-ml-algorithm-b1c910cb4e6d
+https://blog.myyellowroad.com/using-categorical-data-in-machine-learning-with-python-from-dummy-variables-to-deep-category-66041f734512
+
+
+
+baysian encoding.
+factorize encoding ::  Factorize can catch some frequency feature of categorical feature,but label encoding just assign a number to category.
+label encoding
+
+
+I know some categorical feature encoding methods as following, these maybe help beginers get a higher score:
+
+                  one-hot (benefit for linear models or NN)
+                  label-encode
+                  mean-encoding (be careful , easy over fitting if you have not a right validation strategy)
+                 factorize-encoding
+                frequency-encoding
+                 
+I used factorize and frequency encoding like following code in this competition:
+     for c in tqdm(categorical_columns):
+          daset[c+'_freq'] = daset[c].map(daset.groupby(c).size() / daset.shape[0])
+          indexer = pd.factorize(daset[c], sort=True)[1]
+          daset[c] = indexer.get_indexer(daset[c])
+
+
+https://www.fast.ai/2018/04/29/categorical-embeddings/
+
+https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526
+
+https://www.analyticsvidhya.com/blog/2019/08/10-powerful-python-tricks-data-science/
+
+https://feature-engine.readthedocs.io/en/latest/encoders/MeanCategoricalEncoder.html
+
+https://feature-engine.readthedocs.io/en/latest/
+
+https://www.kaggle.com/ruchibahl18/categorical-data-encoding-techniques
+
+https://contrib.scikit-learn.org/categorical-encoding/ordinal.html
+
+https://github.com/scikit-learn-contrib/categorical-encoding
+
+https://towardsdatascience.com/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159
+
+https://www.kaggle.com/kabure/eda-feat-engineering-encode-conquer
+
+https://towardsdatascience.com/an-easier-way-to-encode-categorical-features-d840ff6b3900
+
+https://towardsdatascience.com/all-about-categorical-variable-encoding-305f3361fd02    ###important###
+
+https://towardsdatascience.com/why-you-should-try-mean-encoding-17057262cd0
+
+https://medium.com/datadriveninvestor/improve-your-classification-models-using-mean-target-encoding-a3d573df31e8
+
+https://towardsdatascience.com/catalog-of-variable-transformations-to-make-your-model-works-better-7b506bf80b97
+
+https://www.kaggle.com/mmotoki/hierarchical-bayesian-target-encoding
+
+https://www.kaggle.com/avanwyk/encoding-cyclical-features-for-deep-learning
+
+https://towardsdatascience.com/getting-deeper-into-categorical-encodings-for-machine-learning-2312acd347c8
+
+https://pbpython.com/pandas_dtypes_cat.html
+
+https://github.com/DenisVorotyntsev/CategoricalEncodingBenchmark  ####important####
+https://towardsdatascience.com/benchmarking-categorical-encoders-9c322bd77ee8
+
+https://www.kaggle.com/lucamassaron/categorical-feature-encoding-with-tensorflow
+
+https://towardsdatascience.com/how-to-encode-categorical-data-d44dde313131
+
+https://towardsdatascience.com/group2vec-for-advance-categorical-encoding-54dfc7a08349
+
+https://towardsdatascience.com/processing-and-visualizing-multiple-categorical-variables-with-python-nbas-schedule-challenges-b48453bff813

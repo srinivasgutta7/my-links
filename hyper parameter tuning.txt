@@ -1,0 +1,9 @@
+https://github.com/tobegit3hub/advisor
+
+https://towardsdatascience.com/catalog-of-variable-transformations-to-make-your-model-works-better-7b506bf80b97
+
+https://github.com/WillKoehrsen/hyperparameter-optimization/blob/master/Bayesian%20Hyperparameter%20Optimization%20of%20Gradient%20Boosting%20Machine.ipynb
+
+https://towardsdatascience.com/hyperparameter-tuning-a-practical-guide-and-template-b3bf0504f095
+
+https://towardsdatascience.com/hyperparameter-tuning-a-practical-guide-and-template-b3bf0504f095#b597

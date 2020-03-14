@@ -1,0 +1,9 @@
+https://dabble-of-devops.com/getting-familiar-with-spark-using-docker/
+
+https://mlinproduction.com/docker-for-ml-part-2/
+
+https://towardsdatascience.com/docker-best-practices-for-data-scientists-2ed7f6876dff
+
+https://github.com/interviewBubble/Docker-tutorial-for-beginner
+
+https://github.com/hugoestradas/Data-Science101-With-Docker

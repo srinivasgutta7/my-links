@@ -1,0 +1,3 @@
+https://medium.com/@saamahnmahjouri/teacher-student-architecture-in-plant-disease-classification-f9004149e44c
+
+https://towardsdatascience.com/implementing-a-fully-convolutional-network-fcn-in-tensorflow-2-3c46fb61de3b

@@ -1,0 +1,4 @@
+https://apirobot.me/posts/django-elasticsearch-searching-for-awesome-ted-talks
+https://github.com/vintasoftware/django-zombodb
+
+https://towardsdatascience.com/deep-dive-into-querying-elasticsearch-filter-vs-query-full-text-search-b861b06bd4c0?source=collection_category---4------5-----------------------

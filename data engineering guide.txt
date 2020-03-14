@@ -1,0 +1,5 @@
+https://docs.google.com/spreadsheets/d/1GOO4s1NcxCR8a44F0XnsErz5rYDxNbHAHznu4pJMRkw/edit#gid=0
+
+https://github.com/saraswatmks/Data-Engineering-Challenge/blob/master/01-Solution.ipynb
+
+https://blog.insightdatascience.com/top-10-blog-posts-to-help-you-transition-to-data-engineering-1db2312ecdaf

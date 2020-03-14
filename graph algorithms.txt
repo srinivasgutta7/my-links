@@ -1,0 +1,9 @@
+https://github.com/edvardlindelof/graph-neural-networks-for-drug-discovery
+
+https://github.com/danielegrattarola/spektral
+
+https://github.com/DataForScience/Networks
+
+https://github.com/benedekrozemberczki/awesome-graph-classification
+
+https://github.com/danielegrattarola/spektral

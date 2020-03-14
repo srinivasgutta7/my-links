@@ -1,0 +1,1 @@
+https://towardsdatascience.com/creating-a-restful-serverless-api-with-azure-functions-and-mongodb-6221cfd51a43

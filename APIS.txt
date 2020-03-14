@@ -1,0 +1,6 @@
+https://www.programmableweb.com/search/python
+https://puppet.com/docs/pipelines-for-apps/free/api.html
+
+https://towardsdatascience.com/creating-a-restful-serverless-api-with-azure-functions-and-mongodb-6221cfd51a43
+
+https://towardsdatascience.com/cortex-v0-13-8cf8c0f94edd
